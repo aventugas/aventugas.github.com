@@ -1,0 +1,23 @@
+markdown: rdiscount
+safe: true
+lsi: false
+pygments: true
+# When running jekyll on your local computer change the base url to point to
+# the _site directory (full-path)
+baseurl: http://aventugas.github.com
+
+authors:
+  smf:
+    name: Sérgio Miguel Fernandes
+    display_name: Sérgio Miguel Fernandes
+    gravatar:
+    email:
+    web:
+  sudoeste:
+    name: Nuno Bugio
+    display_name: Nuno Bugio
+    gravatar:
+    email:
+    web:
+    github: jcachopo
+
